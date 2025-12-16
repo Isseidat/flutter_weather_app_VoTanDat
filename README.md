@@ -62,6 +62,14 @@ http – Gọi API OpenWeatherMap
 
 geolocator & geocoding – Lấy vị trí và định vị ngược
 
+shared_preferences – Lưu dữ liệu local
+
+cached_network_image – Cache biểu tượng thời tiết
+
+connectivity_plus – Kiểm tra mạng
+
+flutter_dotenv – Quản lý API key
+
 Các màn hình hiển thị
 
 Màn hình Chính
@@ -75,13 +83,3 @@ Màn hình Cài đặt
 
 Test case
 <img width="1918" height="1078" alt="Test_case" src="https://github.com/user-attachments/assets/b72cc472-e976-4262-8c66-b063e6b952b6" />
-
-
-
-shared_preferences – Lưu dữ liệu local
-
-cached_network_image – Cache biểu tượng thời tiết
-
-connectivity_plus – Kiểm tra mạng
-
-flutter_dotenv – Quản lý API key
